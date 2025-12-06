@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Stand Out Fit In",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-06T11:17:25.781072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stand Out Fit In",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Stand_Out_Fit_In_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stand Out Fit In",
+      "artist": "Derivakat",
+      "has_synced": false,
+      "path": "select/02_Stand_Out_Fit_In_Derivakat.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stand Out Fit In",
+      "artist": "Derivakat",
+      "has_synced": true,
+      "path": "select/03_Stand_Out_Fit_In_Derivakat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stand Out Fit In",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Stand_Out_Fit_In_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stand Out Fit In",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Stand_Out_Fit_In_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stand Out Fit in - Acoustic",
+      "artist": "KASA",
+      "has_synced": false,
+      "path": "select/06_Stand_Out_Fit_in_-_Acoustic_KASA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ONE OK ROCK: Stand Out Fit In [OFFICIAL VIDEO]",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_ONE_OK_ROCK__Stand_Out_Fit_In_[OFFICIAL_VIDEO]_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stand Out, Fit In (feat. Aruvn & Tre Watson) (Cover)",
+      "artist": "Caleb Hyles",
+      "has_synced": false,
+      "path": "select/08_Stand_Out,_Fit_In_(feat._Aruvn_&_Tre_Watson)_(Cover)_Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stand Out, Fit In (feat. Aruvn & Tre Watson) (Cover)",
+      "artist": "Caleb Hyles, Aruvn, Tre Watson",
+      "has_synced": false,
+      "path": "select/09_Stand_Out,_Fit_In_(feat._Aruvn_&_Tre_Watson)_(Cover)_Caleb_Hyles,_Aruvn,_Tre_Watson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stand Out Fit In - ONE OK ROCK [Cover by Derivakat]",
+      "artist": "Derivakat",
+      "has_synced": true,
+      "path": "select/10_Stand_Out_Fit_In_-_ONE_OK_ROCK_[Cover_by_Derivakat]_Derivakat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stand Out Fit In",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Stand_Out_Fit_In_ONE_OK_ROCK.txt"
+    }
+  ]
+}
